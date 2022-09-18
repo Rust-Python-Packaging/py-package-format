@@ -1,1 +1,0 @@
-window.ALL_CRATES = ["py_package_format"];
